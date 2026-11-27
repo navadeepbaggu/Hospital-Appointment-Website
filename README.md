@@ -1,4 +1,4 @@
-
+Lab Activity 2
 # City Care Hospital – Accessible Appointment Management Website
 
 ## Project Overview
